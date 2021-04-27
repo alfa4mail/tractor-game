@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsApplication2">
+</Property><Property Name="Solution File" Value="C:\tractor\Server\WindowsApplication2.sln">
+</Property><Property Name="User Options File" Value="C:\tractor\Server\WindowsApplication2.suo">
+</Property><Property Name="Date" Value="18 декабря 2006 г.">
+</Property><Property Name="Time" Value="14:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsApplication2.sln" Description="File successfully backed up as C:\tractor\Server\Backup\WindowsApplication2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication2.suo" Description="File successfully backed up as C:\tractor\Server\Backup\WindowsApplication2.suo">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj" Description="Project file successfully backed up as C:\tractor\Server\Backup\Server.csproj">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj.user" Description="Project user file successfully backed up as C:\tractor\Server\Backup\Server.csproj.user">
+</Event><Event ErrorLevel="0" Project="Server" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\tractor\Server\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="BlueBrick.cs" Description="File successfully backed up as C:\tractor\Server\Backup\BlueBrick.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="BlueBricks.cs" Description="File successfully backed up as C:\tractor\Server\Backup\BlueBricks.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Bomb.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Bomb.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Bombs.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Bombs.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Brick.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Brick.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Bricks.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Bricks.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Control.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Control.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="CreateNewMap.cs" Description="File successfully backed up as C:\tractor\Server\Backup\CreateNewMap.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Designation.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Designation.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="GameType.cs" Description="File successfully backed up as C:\tractor\Server\Backup\GameType.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Item.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Item.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="MainForm.cs" Description="File successfully backed up as C:\tractor\Server\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Map.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Map.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="MovePlayer.cs" Description="File successfully backed up as C:\tractor\Server\Backup\MovePlayer.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="NetParameter.cs" Description="File successfully backed up as C:\tractor\Server\Backup\NetParameter.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="PlaceList.cs" Description="File successfully backed up as C:\tractor\Server\Backup\PlaceList.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Player.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Rules.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Rules.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Skier.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Skier.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Skiers.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Skiers.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Soil.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Soil.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Soils.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Soils.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Speed.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Speed.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Stone.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Stone.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Stones.cs" Description="File successfully backed up as C:\tractor\Server\Backup\Stones.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="App.ico" Description="File successfully backed up as C:\tractor\Server\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Server" Source="Control.resx" Description="File successfully backed up as C:\tractor\Server\Backup\Control.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="CreateNewMap.resx" Description="File successfully backed up as C:\tractor\Server\Backup\CreateNewMap.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Designation.resx" Description="File successfully backed up as C:\tractor\Server\Backup\Designation.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="GameType.resx" Description="File successfully backed up as C:\tractor\Server\Backup\GameType.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="MainForm.resx" Description="File successfully backed up as C:\tractor\Server\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="NetParameter.resx" Description="File successfully backed up as C:\tractor\Server\Backup\NetParameter.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Rules.resx" Description="File successfully backed up as C:\tractor\Server\Backup\Rules.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Speed.resx" Description="File successfully backed up as C:\tractor\Server\Backup\Speed.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="TracInstall" Source="..\TracInstall\TracInstall.vdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="TracInstall.vdproj" Source="..\TracInstall\TracInstall.vdproj" Description="Project file successfully backed up as C:\tractor\Server\Backup\TracInstall\TracInstall.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsApplication2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TracInstall.vdproj" Source="..\TracInstall\TracInstall.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TracInstall.vdproj" Source="..\TracInstall\TracInstall.vdproj" Description="Converted">
+</Event></UpgradeLog>
